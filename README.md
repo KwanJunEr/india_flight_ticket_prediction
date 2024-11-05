@@ -1,4 +1,4 @@
-# indian_flight_ticket_prediction
+# india_flight_ticket_prediction
 
 <h1>Tech Stack: </h1>
 
